@@ -7,7 +7,7 @@ console.log(    //prints anyting :console.log
                !Guess the Number!
         ------------------------------
         Guess a number between 1-10.
-        You have 3 attempts!
+        You have 3 attempts! 
         ------------------------------
     `)
 );
